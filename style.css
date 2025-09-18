@@ -1,0 +1,8 @@
+
+#gameBoard{
+    text-align: center;
+}
+#gameCanvas{
+    border: 3px solid black;
+    background-color: lightblue;
+}
