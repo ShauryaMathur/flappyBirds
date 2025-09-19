@@ -7,9 +7,9 @@ export class PipeManager{
         this.ctx = ctx;
         this.pipeWidth = 100;
         this.pipeHeight = 300;
-        this.pipeGap = 100;
+        this.pipeGap = 75;
         this.pipeX = 1000;
-        this.pipeSpeed = 3;
+        this.pipeSpeed = 2;
         this.pipes = [];
         this.lastX = 0;
         this.firstPipe = null;
